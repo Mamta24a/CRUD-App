@@ -1,0 +1,24 @@
+.container {
+  margin-top: 1em;
+}
+
+.table {
+  font-size: 70%;
+}
+
+.heading {
+  margin: 1em auto 0em;
+  color: rgb(98, 98, 98);
+}
+
+.divBox {
+  margin-bottom: 3em;
+}
+
+.form {
+  margin: auto;
+  width: 70%;
+  background: whitesmoke;
+  padding: 1em;
+  margin: 1em;
+}
